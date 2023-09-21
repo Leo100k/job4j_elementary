@@ -3,6 +3,7 @@ package ru.job4j;
 public class Echo {
     // uuuu
     // jjjjjj
-    //  |||
+    //
+    // jjjjjj
 
 }
