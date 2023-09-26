@@ -1,8 +1,7 @@
 package ru.job4j.calculator;
 
 public class ArgMethod {
-    // x
-    public static void hello(String name, int age) {
+        public static void hello(String name, int age) {
         System.out.println("Hello, " + name + ", age = " + age);
     }
 
