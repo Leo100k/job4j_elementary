@@ -21,6 +21,5 @@ class FitTest {
         double expected = 69;
         double out = Fit.womanWeight(in);
         assertThat(out).isEqualTo(expected, withPrecision(0.01));
-
     }
 }
